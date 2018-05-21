@@ -1,0 +1,4 @@
+fbprophet>=0.2.1
+flask>=0.10.1
+flask_restful>=0.2.1
+requests>=0.10.1

@@ -1,0 +1,8 @@
+$dcrum_username = "<dcrum username>"
+$dcrum_password = "<dcrum password>"
+$dcrum_base_uri = "<dcrum host and port>" #Without the trailing /
+
+$servicenow_username = "<servicenow username>"
+$servicenow_password = "<servicenow password>"
+$servicenow_uri = "<servicenow uri>/api/now/table/incident"
+$fbprophet_uri = "http://localhost:5000/fbprophet?periods=5&include_history=True&columnid=Custom metric (1) (avg)"
